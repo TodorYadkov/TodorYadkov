@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Todor Yadkov
+- 👋 Hi, I’m Todor Yadkov
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
 - 📫 Reach me at: toni_12@abv.bg
