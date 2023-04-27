@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Todor Yadkov
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
-- 📫 Reach me at: toni_12@abv.bg
+- 📫 Reach me at: todor.yadkov@gmail.com
 
 <!---
 TodorYadkov/TodorYadkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
