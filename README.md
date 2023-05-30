@@ -30,7 +30,6 @@ I'm currently actively learning JavaScript at SoftUni and exploring the exciting
 
 ## 📊 GitHub Stats
 
-[![GitHub Stat](https://github-readme-stats.vercel.app/api?username=TodorYadkov&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
 [![Contributions](http://github-readme-streak-stats.herokuapp.com?user=TodorYadkov&theme=github-dark-blue)](https://git.io/streak-stats)
 
 ## 📞 Let's Connect
