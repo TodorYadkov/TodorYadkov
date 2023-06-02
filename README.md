@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Welcome to My Profile!
 
 Hi, I am Todor Yadkov 👋
 
