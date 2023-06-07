@@ -13,7 +13,8 @@ I'm currently actively learning JavaScript at SoftUni and exploring the exciting
 
 ##  SoftUni Repositories
 
-[Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TodorYadkov&theme=github_dark)
+![book](https://github.com/TodorYadkov/TodorYadkov/assets/4013980/ae44b0ee-6039-40a2-96e8-40f4d2ad26b0)
+
 
 ## 🔧 Technologies & Tools
 
