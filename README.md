@@ -4,17 +4,25 @@ Hi, I am Todor Yadkov 👋
 
 I'm currently actively learning JavaScript at SoftUni and exploring the exciting world of web development.
 
-## 🔭 Currently Learning
+## 📓 SoftUni Repositories
 
-- [JS Basic        - 2022](https://softuni.bg/certificates/details/133854/e41a7114)
-- [JS Fundamentals - 2022](https://softuni.bg/certificates/details/149361/73ffdc3a)
-- [JS Advanced     - 2023](https://softuni.bg/certificates/details/160070/87b07d45)
-- [JS Applications - 2023](https://softuni.bg/certificates/details/167750/55bf85eb)
+- [Programming Basics](https://github.com/TodorYadkov/SoftUni/tree/main/Programming-Basics-JavaScript-2022)
+- [Programming Fundamentals with JavaScript](https://github.com/TodorYadkov/SoftUni/tree/main/Programming-Fundamentals-with-JavaScript-2022)
+- [JS Advanced](https://github.com/TodorYadkov/SoftUni/tree/main/JS-Advanced-January-2023)
+- [JS Applications](https://github.com/TodorYadkov/SoftUni/tree/main/JS-Applications-2023)
+- [JS Back End](https://github.com/TodorYadkov/SoftUni/tree/main/JS-Back-End-2023)
+- [Angular](https://github.com/TodorYadkov/SoftUni/tree/main/Angular-2023)
+- [Small Projects](https://github.com/TodorYadkov/SoftUni/tree/main/Small-Projects)
 
-##  SoftUni Repositories
+## 🎓 Certificates
 
-![book](https://github.com/TodorYadkov/TodorYadkov/assets/4013980/ae44b0ee-6039-40a2-96e8-40f4d2ad26b0)
-
+- [Programming Basics - България - October 2018 - with C#](https://softuni.bg/certificates/details/60676/1dd82ea0)
+- [Computer Networking Fundamentals - October 2021](https://softuni.bg/certificates/details/118948/2340c9ff)
+- [Computer Networking Advanced - December 2021](https://softuni.bg/certificates/details/124120/ccccdc3b)
+- [Programming Basics - April 2022](https://softuni.bg/certificates/details/133854/e41a7114)
+- [Programming Fundamentals with JavaScript - September 2022](https://softuni.bg/certificates/details/149361/73ffdc3a)
+- [JS Advanced - January 2023](https://softuni.bg/certificates/details/160070/87b07d45)
+- [JS Applications - February 2023](https://softuni.bg/certificates/details/167750/55bf85eb)
 
 ## 🔧 Technologies & Tools
 
