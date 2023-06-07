@@ -4,7 +4,7 @@ Hi, I am Todor Yadkov 👋
 
 I'm currently actively learning JavaScript at SoftUni and exploring the exciting world of web development.
 
-## 📓 SoftUni Repositories
+## 💻 SoftUni Repositories
 
 - [Programming Basics](https://github.com/TodorYadkov/SoftUni/tree/main/Programming-Basics-JavaScript-2022)
 - [Programming Fundamentals with JavaScript](https://github.com/TodorYadkov/SoftUni/tree/main/Programming-Fundamentals-with-JavaScript-2022)
