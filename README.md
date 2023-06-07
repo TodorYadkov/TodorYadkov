@@ -26,12 +26,6 @@ I'm currently actively learning JavaScript at SoftUni and exploring the exciting
 
 ## 🔧 Technologies & Tools
 
-⚡ JavaScript | HTML | CSS
-🔥 React | Node.js | Express
-🌐 MongoDB | Firebase
-💻 Git | VS Code
-🚀 Rest API
-
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)](https://nodejs.org)
