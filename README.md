@@ -11,6 +11,10 @@ I'm currently actively learning JavaScript at SoftUni and exploring the exciting
 - [JS Advanced     - 2023](https://softuni.bg/certificates/details/160070/87b07d45)
 - [JS Applications - 2023](https://softuni.bg/certificates/details/167750/55bf85eb)
 
+##  SoftUni Repositories
+
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TodorYadkov&theme=github_dark)]
+
 ## 🔧 Technologies & Tools
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
