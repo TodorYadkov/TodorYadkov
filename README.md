@@ -6,8 +6,8 @@ I'm currently actively learning JavaScript at SoftUni and exploring the exciting
 
 ## 💻 SoftUni Repositories
 
-- [Programming Basics](https://github.com/TodorYadkov/SoftUni/tree/main/Programming-Basics-JavaScript-2022)
-- [Programming Fundamentals with JavaScript](https://github.com/TodorYadkov/SoftUni/tree/main/Programming-Fundamentals-with-JavaScript-2022)
+- [Programming Basics JS](https://github.com/TodorYadkov/SoftUni/tree/main/Programming-Basics-JavaScript-2022)
+- [Programming Fundamentals JS](https://github.com/TodorYadkov/SoftUni/tree/main/Programming-Fundamentals-with-JavaScript-2022)
 - [JS Advanced](https://github.com/TodorYadkov/SoftUni/tree/main/JS-Advanced-January-2023)
 - [JS Applications](https://github.com/TodorYadkov/SoftUni/tree/main/JS-Applications-2023)
 - [JS Back End](https://github.com/TodorYadkov/SoftUni/tree/main/JS-Back-End-2023)
