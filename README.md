@@ -16,7 +16,7 @@ I'm currently actively learning JavaScript at SoftUni and exploring the exciting
 
 ## 🎓 Certificates
 
-- [Programming Basics - България - October 2018 - with C#](https://softuni.bg/certificates/details/60676/1dd82ea0)
+- [Programming Basics - October 2018 - with C#](https://softuni.bg/certificates/details/60676/1dd82ea0)
 - [Computer Networking Fundamentals - October 2021](https://softuni.bg/certificates/details/118948/2340c9ff)
 - [Computer Networking Advanced - December 2021](https://softuni.bg/certificates/details/124120/ccccdc3b)
 - [Programming Basics - April 2022](https://softuni.bg/certificates/details/133854/e41a7114)
