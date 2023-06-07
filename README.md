@@ -5,6 +5,7 @@ Hi, I am Todor Yadkov 👋
 I'm currently actively learning JavaScript at SoftUni and exploring the exciting world of web development.
 
 ## 🔭 Currently Learning
+[Link](https://www.google.com)
 [Link](https://www.google.com/){:target="_blank" rel="noopener noreferrer"}
 
 <a href="https://www.google.com/" target="_blank">Google</a>
