@@ -5,6 +5,7 @@ Hi, I am Todor Yadkov 👋
 I'm currently actively learning JavaScript at SoftUni and exploring the exciting world of web development.
 
 ## 🔭 Currently Learning
+[Link](https://example.com](https://softuni.bg/certificates/details/133854/e41a7114){:target="_blank"}
  <a href="https://softuni.bg/certificates/details/133854/e41a7114" target="_blank">Link</a>
 - [![JS Basic        - 2022](https://softuni.bg/certificates/details/133854/e41a7114)]
 - JS Fundamentals - 2022
