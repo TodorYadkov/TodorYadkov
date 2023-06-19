@@ -43,6 +43,7 @@ I'm currently actively learning JavaScript at SoftUni and exploring the exciting
 ## 📊 GitHub Stats
 
 [![Contributions](http://github-readme-streak-stats.herokuapp.com?user=TodorYadkov&theme=github-dark-blue)](https://git.io/streak-stats)
+
 ![](https://komarev.com/ghpvc/?username=TodorYadkov&style=for-the-badge&color=blue&label=Profile+views)
 
 ## 📞 Let's Connect
