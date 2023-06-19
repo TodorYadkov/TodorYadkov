@@ -49,4 +49,4 @@ I'm currently actively learning JavaScript at SoftUni and exploring the exciting
 - Email: todor.yadkov@gmail.com
 - LinkedIn: [Todor Yadkov](https://www.linkedin.com/in/todor-yadkov-080150247)
 
-![](https://komarev.com/ghpvc/?username=TodorYadkov&style=flat&color=dc143c&label=Profile views)
+![](https://komarev.com/ghpvc/?username=TodorYadkov&style=flat&color=dc143c&label=Profile+views)
