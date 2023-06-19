@@ -43,11 +43,12 @@ I'm currently actively learning JavaScript at SoftUni and exploring the exciting
 ## 📊 GitHub Stats
 
 [![Contributions](http://github-readme-streak-stats.herokuapp.com?user=TodorYadkov&theme=github-dark-blue)](https://git.io/streak-stats)
-[![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TodorYadkov&theme=dracula)]
+[![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TodorYadkov&theme=github_dark)](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+[![Trophy Stats](https://github-profile-trophy.vercel.app/?username=TodorYadkov&theme=onedark)](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+
+[![Views Counter](https://komarev.com/ghpvc/?username=TodorYadkov&style=for-the-badge&color=blue&label=Profile+views)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ## 📞 Let's Connect
 
 - Email: todor.yadkov@gmail.com
 - LinkedIn: [Todor Yadkov](https://www.linkedin.com/in/todor-yadkov-080150247)
-
-![](https://komarev.com/ghpvc/?username=TodorYadkov&style=plastic&color=blue&label=Profile+views)
