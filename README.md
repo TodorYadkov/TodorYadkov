@@ -26,19 +26,17 @@ I'm currently actively learning JavaScript at SoftUni and exploring the exciting
 
 ## 🔧 Technologies & Tools
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/typescript-black?style=flat&logo=typescript)](https://www.typescriptlang.org/)
-[![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)](https://nodejs.org)
-[![Express.js](https://img.shields.io/badge/express.js-black?style=flat&logo=express)](https://expressjs.com/)
-[![Angular](https://img.shields.io/badge/angular-black?style=flat&logo=angular)](https://angular.io/)
-[![Mocha](https://img.shields.io/badge/-mocha-black?style=flat&logo=mocha)](https://mochajs.org/)
-[![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)](https://www.mongodb.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-black?style=flat&logo=Firebase)](https://firebase.google.com)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com)
-[![Postman](https://img.shields.io/badge/Postman-black?style=flat&logo=postman)](https://www.postman.com)
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://www.typescriptlang.org/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org)
+[![Express.js](https://skillicons.dev/icons?i=express&theme=dark)](https://expressjs.com/)
+[![Angular](https://skillicons.dev/icons?i=angular&theme=dark)](https://angular.io/)
+[![HTML5](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://www.mongodb.com/)
+[![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)](https://firebase.google.com)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com)
+[![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://www.postman.com)
 
 ## 📊 GitHub Stats
 
