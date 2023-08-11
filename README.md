@@ -16,7 +16,7 @@ I'm currently actively learning JavaScript at SoftUni and exploring the exciting
 
 ### 🌟 My first full project with Angular and Express.js
 
-- 🌐 Live Demo: [Gourmet Academy Live Demo](https://main--gourmet-academy.netlify.app/)
+- 🌐 Live Demo: [Gourmet Academy Live Demo](https://gourmet-academy.netlify.app)
 - 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/SoftUni/tree/main/Angular-2023/Angular_course_project)
 - 📝 Description: Gourmet Academy is a web application that allows users to explore different types of cuisines, view restaurant menus, and place orders for delivery.
 - 🔧 Technologies Used: Node.js, Express.js, Dotenv, Bcrypt, Express-validator, Jsonwebtoken, MongoDB with Mongoose for the backend, Angular for the frontend.
