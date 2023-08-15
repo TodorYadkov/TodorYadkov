@@ -31,6 +31,7 @@ I'm currently actively learning JavaScript at SoftUni and exploring the exciting
 - [JS Advanced - January 2023](https://softuni.bg/certificates/details/160070/87b07d45)
 - [JS Applications - February 2023](https://softuni.bg/certificates/details/167750/55bf85eb)
 - [JS Back-End - May 2023](https://softuni.bg/certificates/details/175182/41da4f57)
+- [Angular - June 2023](https://softuni.bg/certificates/details/182940/6aeef9c2)
 
 ## 🔧 Technologies & Tools
 
