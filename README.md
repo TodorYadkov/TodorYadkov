@@ -12,6 +12,7 @@ I'm currently actively learning JavaScript at SoftUni and exploring the exciting
 - [JS Applications](https://github.com/TodorYadkov/SoftUni/tree/main/JS-Applications-2023)
 - [JS Back End](https://github.com/TodorYadkov/SoftUni/tree/main/JS-Back-End-2023)
 - [Angular](https://github.com/TodorYadkov/SoftUni/tree/main/Angular-2023)
+- [HTML & CSS](https://github.com/TodorYadkov/SoftUni/tree/main/HTML-CSS-2023)
 - [Small Projects](https://github.com/TodorYadkov/SoftUni/tree/main/Small-Projects)
 
 ### 🌟 My first full project with Angular and Express.js
