@@ -30,6 +30,12 @@ I'm currently actively learning JavaScript at SoftUni and exploring the exciting
 - 📝 Description: MemeLandia is an interactive web platform where users can create and share their own memes. Express your creativity by designing memes, share them with the community, and engage in discussions with like-minded meme enthusiasts. Users can like, dislike, comment on memes, and add them to their favorites.
 - 🔧 Technologies Used: Node.js, Express.js, Dotenv, Bcrypt, Joi Validation, Jsonwebtoken, MongoDB with Mongoose for the backend, React, HTML5, CSS, react-hook-form, react-router-dom, html2canvas, vitest, @testing-library/jest-dom, @testing-library/react for the frontend.
 
+#### Flip Clock
+- 🌐 Live Demo: [Flip Clock](https://flip-clock-softuni.vercel.app/)
+- 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/SoftUni/tree/main/Small-Projects/Flip%20clock%20with%20JS%20CSS%20HTML)
+- 📝 Description: Flip Clock – my first project using Vanilla JS, HTML5, and CSS. This project marks the beginning of my web development journey, showing the basics of front-end technologies while keeping time stylishly.
+- 🔧 Technologies Used: Node.js, Vanila JS.
+
 #### Guess A Number
 - 🌐 Live Demo: [Guess A Number](https://replit.com/@bhaveto/Guess-A-Number?v=1)
 - 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/SoftUni/tree/main/Small-Projects/Small-projects-from-my-studies-at-SoftUni/Guess%20The%20Number)
