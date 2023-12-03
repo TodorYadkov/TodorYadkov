@@ -1,4 +1,4 @@
-# Welcome to My Profile!
+# Welcome
 
 Hey there! I'm Todor Yadkov 👋,
 a junior enthusiast diving into the world of web development. Currently honing my JavaScript skills, I bring a fresh perspective with a passion for coding.
