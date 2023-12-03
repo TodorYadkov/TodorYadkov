@@ -48,19 +48,6 @@ a junior enthusiast diving into the world of web development. Currently honing m
 [![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TodorYadkov&theme=github_dark)](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 [![Trophy Stats](https://github-profile-trophy.vercel.app/?username=TodorYadkov&theme=onedark)](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
-## 💻 SoftUni Repositories
-
-- [Programming Basics JS](https://github.com/TodorYadkov/SoftUni/tree/main/Programming-Basics-JavaScript-2022)
-- [Programming Fundamentals JS](https://github.com/TodorYadkov/SoftUni/tree/main/Programming-Fundamentals-with-JavaScript-2022)
-- [JS Advanced](https://github.com/TodorYadkov/SoftUni/tree/main/JS-Advanced-January-2023)
-- [JS Applications](https://github.com/TodorYadkov/SoftUni/tree/main/JS-Applications-2023)
-- [JS Back End](https://github.com/TodorYadkov/SoftUni/tree/main/JS-Back-End-2023)
-- [Angular](https://github.com/TodorYadkov/SoftUni/tree/main/Angular-2023)
-- [HTML & CSS](https://github.com/TodorYadkov/SoftUni/tree/main/HTML-CSS-2023)
-- [React](https://github.com/TodorYadkov/Memelandia_App_React)
-- [Small Projects](https://github.com/TodorYadkov/SoftUni/tree/main/Small-Projects)
-
-
 ## 🎓 Certificates
 
 - [Programming Basics C# - October 2018](https://softuni.bg/certificates/details/60676/1dd82ea0)
@@ -73,6 +60,18 @@ a junior enthusiast diving into the world of web development. Currently honing m
 - [JS Back-End - May 2023](https://softuni.bg/certificates/details/175182/41da4f57)
 - [Angular - June 2023](https://softuni.bg/certificates/details/182940/6aeef9c2)
 - [HTML & CSS - September 2023](https://softuni.bg/certificates/details/190717/557fb816)
+
+## 💻 SoftUni Repositories
+
+- [Programming Basics JS](https://github.com/TodorYadkov/SoftUni/tree/main/Programming-Basics-JavaScript-2022)
+- [Programming Fundamentals JS](https://github.com/TodorYadkov/SoftUni/tree/main/Programming-Fundamentals-with-JavaScript-2022)
+- [JS Advanced](https://github.com/TodorYadkov/SoftUni/tree/main/JS-Advanced-January-2023)
+- [JS Applications](https://github.com/TodorYadkov/SoftUni/tree/main/JS-Applications-2023)
+- [JS Back End](https://github.com/TodorYadkov/SoftUni/tree/main/JS-Back-End-2023)
+- [Angular](https://github.com/TodorYadkov/SoftUni/tree/main/Angular-2023)
+- [HTML & CSS](https://github.com/TodorYadkov/SoftUni/tree/main/HTML-CSS-2023)
+- [React](https://github.com/TodorYadkov/Memelandia_App_React)
+- [Small Projects](https://github.com/TodorYadkov/SoftUni/tree/main/Small-Projects)
 
 ## 📞 Let's Connect
 
