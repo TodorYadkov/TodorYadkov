@@ -28,7 +28,13 @@ I'm currently actively learning JavaScript at SoftUni and exploring the exciting
 - 🌐 Live Demo: [MemeLandia Live Demo](https://memelandia.vercel.app/)
 - 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/Memelandia_App_React)
 - 📝 Description: MemeLandia is an interactive web platform where users can create and share their own memes. Express your creativity by designing memes, share them with the community, and engage in discussions with like-minded meme enthusiasts. Users can like, dislike, comment on memes, and add them to their favorites.
-- 🔧 Technologies Used: Node.js, Express.js, Dotenv, Bcrypt, Joi Validation, Jsonwebtoken, MongoDB with Mongoose for the backend, React for the frontend.
+- 🔧 Technologies Used: Node.js, Express.js, Dotenv, Bcrypt, Joi Validation, Jsonwebtoken, MongoDB with Mongoose for the backend, React, HTML5, CSS, react-hook-form, react-router-dom, html2canvas, vitest, @testing-library/jest-dom, @testing-library/react for the frontend.
+
+### Guess A Number
+- 🌐 Live Demo: [Guess A Number](https://replit.com/@bhaveto/Guess-A-Number?v=1)
+- 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/SoftUni/tree/main/Small-Projects/Small-projects-from-my-studies-at-SoftUni/Guess%20The%20Number)
+- 📝 Description: Guess A Number is my console game created using Node.js and JavaScript. The computer randomly selects a number between 1 and 100, and your goal is to guess it. After each attempt, the computer provides hints on whether the correct number is greater or less than your guess. Successfully guessing the number takes you to the next level with a wider range of numbers to challenge.
+- 🔧 Technologies Used: Node.js, Vanila JS.
 
 ## 🎓 Certificates
 
