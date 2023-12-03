@@ -36,6 +36,7 @@ a junior enthusiast diving into the world of web development. Currently honing m
 [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org)
 [![Express.js](https://skillicons.dev/icons?i=express&theme=dark)](https://expressjs.com/)
 [![Angular](https://skillicons.dev/icons?i=angular&theme=dark)](https://angular.io/)
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev/)
 [![HTML5](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://www.mongodb.com/)
