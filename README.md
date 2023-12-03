@@ -34,7 +34,7 @@ I'm currently actively learning JavaScript at SoftUni and exploring the exciting
 - 🌐 Live Demo: [Flip Clock](https://flip-clock-softuni.vercel.app/)
 - 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/SoftUni/tree/main/Small-Projects/Flip%20clock%20with%20JS%20CSS%20HTML)
 - 📝 Description: Flip Clock – my first project using Vanilla JS, HTML5, and CSS. This project marks the beginning of my web development journey, showing the basics of front-end technologies while keeping time stylishly.
-- 🔧 Technologies Used: Node.js, Vanila JS.
+- 🔧 Technologies Used: Node.js, Vanila JS, HTML5, CSS.
 
 #### Guess A Number
 - 🌐 Live Demo: [Guess A Number](https://replit.com/@bhaveto/Guess-A-Number?v=1)
