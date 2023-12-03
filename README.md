@@ -62,7 +62,7 @@ a junior enthusiast diving into the world of web development. Currently honing m
 - [Angular - June 2023](https://softuni.bg/certificates/details/182940/6aeef9c2)
 - [HTML & CSS - September 2023](https://softuni.bg/certificates/details/190717/557fb816)
 
-## 💻 SoftUni Repositories
+## 💻 Repositories
 
 - [Programming Basics JS](https://github.com/TodorYadkov/SoftUni/tree/main/Programming-Basics-JavaScript-2022)
 - [Programming Fundamentals JS](https://github.com/TodorYadkov/SoftUni/tree/main/Programming-Fundamentals-with-JavaScript-2022)
