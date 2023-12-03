@@ -1,8 +1,6 @@
 # Welcome to My Profile!
 
-Hi, I am Todor Yadkov 👋
-
-I'm currently actively learning JavaScript at SoftUni and exploring the exciting world of web development.
+Hey there! I'm Todor Yadkov 👋, a junior enthusiast diving into the world of web development. Currently honing my JavaScript skills, I bring a fresh perspective with a passion for coding.
 
 ## 🌟 Projects with demo
 
