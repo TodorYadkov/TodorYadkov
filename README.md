@@ -7,7 +7,7 @@ a junior enthusiast diving into the world of web development. Currently honing m
 
 #### Gourmet Academy
 - 🌐 Live Demo: [Gourmet Academy](https://gourmet-academy.netlify.app)
-- 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/SoftUni/tree/main/Angular-2023/Angular_course_project)
+- 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/Gourmet_Academy_App_Angular)
 - 📝 Description: Gourmet Academy is a web application that allows users to explore different types of cuisines, view restaurant menus, and place orders for delivery.
 - 🔧 Technologies Used: Node.js, Express.js, Dotenv, Bcrypt, Express-validator, Jsonwebtoken, MongoDB with Mongoose for the backend, Angular for the frontend.
 
