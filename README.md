@@ -72,7 +72,7 @@ a junior enthusiast diving into the world of web development. Currently honing m
 - [JS Back End](https://github.com/TodorYadkov/SoftUni/tree/main/JS-Back-End-2023)
 - [Angular](https://github.com/TodorYadkov/SoftUni/tree/main/Angular-2023)
 - [HTML & CSS](https://github.com/TodorYadkov/SoftUni/tree/main/HTML-CSS-2023)
-- [React](https://github.com/TodorYadkov/Memelandia_App_React)
+- [React](https://github.com/TodorYadkov/SoftUni/tree/main/React-2023)
 - [Small Projects](https://github.com/TodorYadkov/SoftUni/tree/main/Small-Projects)
 
 ## 📞 Let's Connect
