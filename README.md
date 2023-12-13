@@ -61,6 +61,7 @@ a junior enthusiast diving into the world of web development. Currently honing m
 - [JS Back-End - May 2023](https://softuni.bg/certificates/details/175182/41da4f57)
 - [Angular - June 2023](https://softuni.bg/certificates/details/182940/6aeef9c2)
 - [HTML & CSS - September 2023](https://softuni.bg/certificates/details/190717/557fb816)
+- [ReactJS - October 2023](https://softuni.bg/certificates/details/197791/bef9daa1)
 
 ## 💻 Repositories
 
