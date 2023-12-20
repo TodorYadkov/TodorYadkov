@@ -51,6 +51,8 @@ a junior enthusiast diving into the world of web development. Currently honing m
 
 ## 🎓 Certificates
 
+ 📜 [Diploma - JS Web Developer - December 2023](https://softuni.bg/certificates/details/199349/5f333f93)
+
 - [Programming Basics C# - October 2018](https://softuni.bg/certificates/details/60676/1dd82ea0)
 - [Computer Networking Fundamentals - October 2021](https://softuni.bg/certificates/details/118948/2340c9ff)
 - [Computer Networking Advanced - December 2021](https://softuni.bg/certificates/details/124120/ccccdc3b)
