@@ -5,6 +5,12 @@ a junior enthusiast diving into the world of web development. Currently honing m
 
 ## 🌟 Projects with demo
 
+#### Dropshipping Application
+- 🌐 Live Demo: [Dropshipping Application](https://drop-shipping-trm.vercel.app)
+- 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/dropshipping-scraper)
+- 📝 Description: The system automates, organizes, and elevates dropshipping by managing scraped data more efficiently.
+- 🔧 Technologies Used: Node.js, Express.js, Dotenv, Bcrypt, Express-validator, Jsonwebtoken, MongoDB with Mongoose for the backend, React for the frontend.
+
 #### Gourmet Academy
 - 🌐 Live Demo: [Gourmet Academy](https://gourmet-academy.netlify.app)
 - 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/Gourmet_Academy_App_Angular)
