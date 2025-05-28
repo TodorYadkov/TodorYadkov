@@ -29,12 +29,6 @@ a junior enthusiast diving into the world of web development. Currently honing m
 - 📝 Description: Roleri BG is a web-based platform designed to support multiple user roles, including students, instructors, and administrators. The application enables users to seamlessly browse, schedule, and manage lessons with certified instructors, providing a structured and efficient environment for lesson booking and administration.
 - 🔧 Technologies Used: Node.js, Express.js, MongoDB for the backend, React for the frontend.
 
-#### Automania
-- 🌐 Live Demo: [Automania](https://automania-app.vercel.app)
-- 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/Automania)
-- 📝 Description: Automania is a responsive web application developed using React and pure JavaScript. It's a task-oriented project aimed at showcasing responsive design principles without relying on additional libraries or frameworks.
-- 🔧 Technologies Used: React.
-
 #### Flip Clock
 - 🌐 Live Demo: [Flip Clock](https://flip-clock-softuni.vercel.app/)
 - 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/SoftUni/tree/main/Small-Projects/Flip%20clock%20with%20JS%20CSS%20HTML)
