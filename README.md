@@ -9,19 +9,25 @@ a junior enthusiast diving into the world of web development. Currently honing m
 - 🌐 Live Demo: [Dropshipping Application](https://drop-shipping-trm.vercel.app)
 - 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/dropshipping-scraper)
 - 📝 Description: The system automates, organizes, and elevates dropshipping by managing scraped data more efficiently.
-- 🔧 Technologies Used: Node.js, Express.js, Dotenv, Bcrypt, Express-validator, Jsonwebtoken, MongoDB with Mongoose for the backend, React for the frontend.
+- 🔧 Technologies Used: Node.js, Express.js, MongoDB for the backend, React for the frontend.
 
 #### Gourmet Academy
 - 🌐 Live Demo: [Gourmet Academy](https://gourmet-academy.netlify.app)
 - 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/Gourmet_Academy_App_Angular)
 - 📝 Description: Gourmet Academy is a web application that allows users to explore different types of cuisines, view restaurant menus, and place orders for delivery.
-- 🔧 Technologies Used: Node.js, Express.js, Dotenv, Bcrypt, Express-validator, Jsonwebtoken, MongoDB with Mongoose for the backend, Angular for the frontend.
+- 🔧 Technologies Used: Node.js, Express.js, MongoDB for the backend, Angular for the frontend.
 
 #### MemeLandia
 - 🌐 Live Demo: [MemeLandia](https://memelandia.vercel.app/)
 - 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/Memelandia_App_React)
 - 📝 Description: MemeLandia is an interactive web platform where users can create and share their own memes. Express your creativity by designing memes, share them with the community, and engage in discussions with like-minded meme enthusiasts. Users can like, dislike, comment on memes, and add them to their favorites.
-- 🔧 Technologies Used: Node.js, Express.js, Dotenv, Bcrypt, Joi Validation, Jsonwebtoken, MongoDB with Mongoose for the backend, React, HTML5, CSS, react-hook-form, react-router-dom, html2canvas, vitest, @testing-library/jest-dom, @testing-library/react for the frontend.
+- 🔧 Technologies Used: Node.js, Express.js, MongoDB for the backend, React, vitest for the frontend.
+
+#### Roleri BG
+- 🌐 Live Demo: [Roleri BG](https://roleri-bg-web-app.vercel.app)
+- 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/roleri_bg)
+- 📝 Description: Roleri BG is a web-based platform designed to support multiple user roles, including students, instructors, and administrators. The application enables users to seamlessly browse, schedule, and manage lessons with certified instructors, providing a structured and efficient environment for lesson booking and administration.
+- 🔧 Technologies Used: Node.js, Express.js, MongoDB for the backend, React for the frontend.
 
 #### Flip Clock
 - 🌐 Live Demo: [Flip Clock](https://flip-clock-softuni.vercel.app/)
