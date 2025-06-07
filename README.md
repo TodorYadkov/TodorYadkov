@@ -43,7 +43,7 @@ a junior enthusiast diving into the world of web development. Currently honing m
   
 <br>
 
-## 🚀 Small Projects with Live Demos 
+## 🎯 Small Projects with Live Demos 
 
 #### Calculator
 - 🌐 [Live Demo](https://calculator-indol-eta.vercel.app/)
