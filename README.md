@@ -40,6 +40,21 @@ a junior enthusiast diving into the world of web development. Currently honing m
 - 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/SoftUni/tree/main/Small-Projects/Small-projects-from-my-studies-at-SoftUni/Guess%20The%20Number)
 - 📝 Description: Guess A Number is my console game created using Node.js and JavaScript. The computer randomly selects a number between 1 and 100, and your goal is to guess it. After each attempt, the computer provides hints on whether the correct number is greater or less than your guess. Successfully guessing the number takes you to the next level with a wider range of numbers to challenge.
 - 🔧 Technologies Used: Node.js, Vanila JS.
+  
+<br>
+<br>
+
+## 🚀 Small Projects with Live Demos 
+
+#### Calculator
+- 🌐 [Live Demo](https://calculator-indol-eta.vercel.app/)
+- 🔧 Technologies Used: React.
+
+<br>
+<br>
+<br>
+<br>
+
 
 ## 🔧 Technologies & Tools
 
