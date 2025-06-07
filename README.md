@@ -42,7 +42,6 @@ a junior enthusiast diving into the world of web development. Currently honing m
 - 🔧 Technologies Used: Node.js, Vanila JS.
   
 <br>
-<br>
 
 ## 🚀 Small Projects with Live Demos 
 
@@ -50,7 +49,6 @@ a junior enthusiast diving into the world of web development. Currently honing m
 - 🌐 [Live Demo](https://calculator-indol-eta.vercel.app/)
 - 🔧 Technologies Used: React.
 
-<br>
 <br>
 <br>
 <br>
