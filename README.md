@@ -9,37 +9,37 @@ a junior enthusiast diving into the world of web development. Currently honing m
 - 🌐 Live Demo: [Dropshipping Application](https://drop-shipping-trm.vercel.app)
 - 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/dropshipping-scraper)
 - 📝 Description: The system automates, organizes, and elevates dropshipping by managing scraped data more efficiently.
-- 🔧 Technologies Used: Node.js, Express.js, MongoDB, React, Tailwind.
+- 🔧 Technologies Used: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 #### Roleri BG
 - 🌐 Live Demo: [Roleri BG](https://roleri-bg-web-app.vercel.app)
 - 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/roleri_bg)
 - 📝 Description: Roleri BG is a web-based platform designed to support multiple user roles, including students, instructors, and administrators. The application enables users to seamlessly browse, schedule, and manage lessons with certified instructors, providing a structured and efficient environment for lesson booking and administration.
-- 🔧 Technologies Used: Node.js, Express.js, MongoDB, React, CSS3.
+- 🔧 Technologies Used: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 #### Gourmet Academy
 - 🌐 Live Demo: [Gourmet Academy](https://gourmet-academy.netlify.app)
 - 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/Gourmet_Academy_App_Angular)
 - 📝 Description: Gourmet Academy is a web application that allows users to explore different types of cuisines, view restaurant menus, and place orders for delivery.
-- 🔧 Technologies Used: Node.js, Express.js, MongoDB, Angular, CSS3.
+- 🔧 Technologies Used: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 #### MemeLandia
 - 🌐 Live Demo: [MemeLandia](https://memelandia.vercel.app/)
 - 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/Memelandia_App_React)
 - 📝 Description: MemeLandia is an interactive web platform where users can create and share their own memes. Express your creativity by designing memes, share them with the community, and engage in discussions with like-minded meme enthusiasts. Users can like, dislike, comment on memes, and add them to their favorites.
-- 🔧 Technologies Used: Node.js, Express.js, MongoDB, React, CSS3, Vitest.
+- 🔧 Technologies Used: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-729B1B?style=flat&logo=vitest&logoColor=white)
 
 #### Flip Clock
 - 🌐 Live Demo: [Flip Clock](https://flip-clock-softuni.vercel.app/)
 - 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/SoftUni/tree/main/Small-Projects/Flip%20clock%20with%20JS%20CSS%20HTML)
 - 📝 Description: Flip Clock – my first project using Vanilla JS, HTML5, and CSS. This project marks the beginning of my web development journey, showing the basics of front-end technologies while keeping time stylishly.
-- 🔧 Technologies Used: Node.js, Vanila JS, HTML5, CSS3.
+- 🔧 Technologies Used: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 #### Guess A Number
 - 🌐 Live Demo: [Guess A Number](https://replit.com/@bhaveto/Guess-A-Number?v=1)
 - 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/SoftUni/tree/main/Small-Projects/Small-projects-from-my-studies-at-SoftUni/Guess%20The%20Number)
 - 📝 Description: Guess A Number is my console game created using Node.js and JavaScript. The computer randomly selects a number between 1 and 100, and your goal is to guess it. After each attempt, the computer provides hints on whether the correct number is greater or less than your guess. Successfully guessing the number takes you to the next level with a wider range of numbers to challenge.
-- 🔧 Technologies Used: Node.js, Vanila JS.
+- 🔧 Technologies Used: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
   
 <br>
 
@@ -47,7 +47,7 @@ a junior enthusiast diving into the world of web development. Currently honing m
 
 #### Calculator
 - 🌐 [Live Demo](https://calculator-indol-eta.vercel.app/)
-- 🔧 Technologies Used: React, Redux Toolkit, Math.js, Sass
+- 🔧 Technologies Used: ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white) ![Math.js](https://img.shields.io/badge/Math.js-ffcc00?style=flat&logo=javascript&logoColor=black) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
 <br>
 <br>
