@@ -9,31 +9,31 @@ a junior enthusiast diving into the world of web development. Currently honing m
 - 🌐 Live Demo: [Dropshipping Application](https://drop-shipping-trm.vercel.app)
 - 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/dropshipping-scraper)
 - 📝 Description: The system automates, organizes, and elevates dropshipping by managing scraped data more efficiently.
-- 🔧 Technologies Used: Node.js, Express.js, MongoDB for the backend, React for the frontend.
+- 🔧 Technologies Used: Node.js, Express.js, MongoDB, React, Tailwind.
 
 #### Roleri BG
 - 🌐 Live Demo: [Roleri BG](https://roleri-bg-web-app.vercel.app)
 - 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/roleri_bg)
 - 📝 Description: Roleri BG is a web-based platform designed to support multiple user roles, including students, instructors, and administrators. The application enables users to seamlessly browse, schedule, and manage lessons with certified instructors, providing a structured and efficient environment for lesson booking and administration.
-- 🔧 Technologies Used: Node.js, Express.js, MongoDB for the backend, React for the frontend.
+- 🔧 Technologies Used: Node.js, Express.js, MongoDB, React, CSS3.
 
 #### Gourmet Academy
 - 🌐 Live Demo: [Gourmet Academy](https://gourmet-academy.netlify.app)
 - 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/Gourmet_Academy_App_Angular)
 - 📝 Description: Gourmet Academy is a web application that allows users to explore different types of cuisines, view restaurant menus, and place orders for delivery.
-- 🔧 Technologies Used: Node.js, Express.js, MongoDB for the backend, Angular for the frontend.
+- 🔧 Technologies Used: Node.js, Express.js, MongoDB, Angular, CSS3.
 
 #### MemeLandia
 - 🌐 Live Demo: [MemeLandia](https://memelandia.vercel.app/)
 - 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/Memelandia_App_React)
 - 📝 Description: MemeLandia is an interactive web platform where users can create and share their own memes. Express your creativity by designing memes, share them with the community, and engage in discussions with like-minded meme enthusiasts. Users can like, dislike, comment on memes, and add them to their favorites.
-- 🔧 Technologies Used: Node.js, Express.js, MongoDB for the backend, React, vitest for the frontend.
+- 🔧 Technologies Used: Node.js, Express.js, MongoDB, React, CSS3, Vitest.
 
 #### Flip Clock
 - 🌐 Live Demo: [Flip Clock](https://flip-clock-softuni.vercel.app/)
 - 📂 GitHub Repository: [Link to GitHub Repository](https://github.com/TodorYadkov/SoftUni/tree/main/Small-Projects/Flip%20clock%20with%20JS%20CSS%20HTML)
 - 📝 Description: Flip Clock – my first project using Vanilla JS, HTML5, and CSS. This project marks the beginning of my web development journey, showing the basics of front-end technologies while keeping time stylishly.
-- 🔧 Technologies Used: Node.js, Vanila JS, HTML5, CSS.
+- 🔧 Technologies Used: Node.js, Vanila JS, HTML5, CSS3.
 
 #### Guess A Number
 - 🌐 Live Demo: [Guess A Number](https://replit.com/@bhaveto/Guess-A-Number?v=1)
