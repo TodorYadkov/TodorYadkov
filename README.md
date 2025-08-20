@@ -3,7 +3,7 @@
 Hey there! I'm Todor Yadkov 👋,
 a junior enthusiast diving into the world of web development. Currently honing my JavaScript skills, I bring a fresh perspective with a passion for coding.
 
-## 🌟 Projects with Live Demos 
+## 🌟 Projects & Live Demos
 
 #### Dropshipping Application
 - 🌐 Live Demo: [Dropshipping Application](https://drop-shipping-trm.vercel.app)
