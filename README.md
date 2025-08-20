@@ -47,7 +47,7 @@ a junior enthusiast diving into the world of web development. Currently honing m
 
 #### Calculator
 - 🌐 [Live Demo](https://calculator-indol-eta.vercel.app/)
-- 🔧 Technologies Used: React.
+- 🔧 Technologies Used: React, Redux Toolkit, Math.js, Sass
 
 <br>
 <br>
