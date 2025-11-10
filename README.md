@@ -53,6 +53,11 @@ a junior enthusiast diving into the world of web development. Currently honing m
 - 🌐 [Live Demo](https://resto-bgn-to-eur.vercel.app/)
 - 🔧 Technologies Used: ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
+#### Trip Card Explorer
+- 🌐 [Live Demo](https://trip-card-explorer.vercel.app/)
+- 🔧 Technologies Used: ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+
+  
 <br>
 <br>
 <br>
